@@ -1,1 +1,1 @@
-Trying to understand Git.
+Trying to understand Git, which seems very confusing.
